@@ -1,8 +1,21 @@
-﻿using System.Net;
+﻿/*
+ * AUTHOR: Ethan Schoonbee
+ * CREATED: 27-01-2025
+ * EDITED: 28-01-2025
+ */
+
+using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using static System.Console;
 
+namespace tcp_server;
+
+/// <summary>
+/// server to listen for clients connections over TCP,
+/// establishing a connection and a network stream,
+/// and sending the client a message
+/// </summary>
 class TCPServer
 {
     static void Main(string[] args)
@@ -51,3 +64,4 @@ class TCPServer
         }
     }
 }
+//____________________________________....oooOO0_END_OF_FILE_0OOooo....____________________________________
