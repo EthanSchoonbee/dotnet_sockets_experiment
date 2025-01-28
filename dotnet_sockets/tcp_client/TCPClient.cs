@@ -10,7 +10,10 @@ using System.Text;
 namespace tcp_client;
 
 /// <summary>
-///
+/// client to connect to the server on port 8888
+/// and local host ip, and read a message from
+/// the NetworkStream, convert to a string and
+/// display in the console
 /// </summary>
 public class TCPClient
 {
