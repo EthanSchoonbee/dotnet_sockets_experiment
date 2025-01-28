@@ -8,6 +8,8 @@
 ## 🧔🏻 Author
 - Ethan Schoonbee
 - Alias: whitespace
+  
+![whitespace_logo](https://github.com/user-attachments/assets/d4118767-1bbc-46f0-af72-de206052503f)
 
 ## 🎯 Overview
 
