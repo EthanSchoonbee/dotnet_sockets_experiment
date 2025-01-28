@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcp_socket", "tcp_socket\tcp_socket.csproj", "{483000F7-F180-4420-A8E3-6EA91F2FEDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483000F7-F180-4420-A8E3-6EA91F2FEDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483000F7-F180-4420-A8E3-6EA91F2FEDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483000F7-F180-4420-A8E3-6EA91F2FEDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483000F7-F180-4420-A8E3-6EA91F2FEDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

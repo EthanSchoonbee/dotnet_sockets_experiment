@@ -1,0 +1,76 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Rider and VS Code settings
+.idea/
+.vscode/
+
+# Visual Studio working files
+.vs/
+
+# NuGet packages
+*.nupkg
+# The following lines prevent NuGet packages from being restored twice
+# via the MSBuild-Integrated Restore
+*.snupkg
+packages/
+.nuget/
+
+# ASP.NET temporary files
+.tmp/
+
+# Log and debug files
+*.log
+*.pidb
+*.scc
+
+# Crash and application insights
+CrashReports/
+AppInsights/
+
+# Temporary files
+*_tmp/
+*.temp
+*.tmp
+
+# Secrets
+secrets.json
+*.key
+
+# Global exception handling
+global-usage.json
+
+# Other OS-specific files
+.DS_Store
+Thumbs.db
+
+# Debugger working files
+*.ilk
+*.pdb
+*.idb
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Code-generated files
+Generated_Code/
+
+# Project-specific files
+project.lock.json
+project.fragment.lock.json
