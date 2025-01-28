@@ -7,9 +7,15 @@
 
 ## 🧔🏻 Author
 - Ethan Schoonbee
-- Alias: whitespace
-  
-![whitespace_logo](https://github.com/user-attachments/assets/d4118767-1bbc-46f0-af72-de206052503f)
+
+<div style="display: flex; align-items: center;">
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/d4118767-1bbc-46f0-af72-de206052503f" alt="whitespace_logo" width="150" height="150">
+    </div>
+    <div align="center">
+    <img src="https://github.com/user-attachments/assets/c3d3b90b-87e0-4844-8657-4e27164b6c59" alt="whitespace_logo" width="200" height="20">
+  </div>
+</div>
 
 ## 🎯 Overview
 
