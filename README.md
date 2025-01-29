@@ -6,7 +6,9 @@
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 ## 🧔🏻 Author
-- Ethan Schoonbee
+
+**Ethan Schoonbee**
+- 💻 Graduate Software Developer
 
 <div style="display: flex; align-items: center;">
   <div align="center">
@@ -16,7 +18,6 @@
     <img src="https://github.com/user-attachments/assets/c3d3b90b-87e0-4844-8657-4e27164b6c59" alt="whitespace_logo" width="200" height="20">
   </div>
 </div>
-
 ## 🎯 Overview
 
 `dotnet_sockets_experiment` is an experimental project showcasing TCP socket communication in C#. Through two console applications, it demonstrates the fundamentals of network programming using .NET 8:
