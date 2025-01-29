@@ -53,7 +53,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/EthanSchoonbee/dotnet_sockets_experiment/
+git clone https://github.com/EthanSchoonbee/dotnet_sockets_experiment.git
 cd dotnet_sockets
 ```
 
